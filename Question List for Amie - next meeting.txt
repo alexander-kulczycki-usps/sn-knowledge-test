@@ -1,0 +1,25 @@
+In the existing system (usps14/15) , the jobs: 
+
+KB article expiry monthly [kb.article.expiry.warning.monthly]
+Monthly expired KB article check [knowledge.expiring]
+Notification for Article Expiry Warning [kb.article.expiry.warning]
+
+currently run monthly.
+
+They use the custom fields: u_owner_group, u_answer_administrator
+The "Monthly expired KB article check [knowledge.expiring]" is for All KBB's.
+The other two jobs are for the "IT KB" only.
+
+What do you want us to do with them?
+
+(Switch from custom fields to ownership_group?
+Keep the two jobs "IT KB" only or expand them to All KBB's?
+Discontinue any of these jobs and revert to OOB?
+
+
+What does OOB do (look at jobs on PDI)
+
+
+
+KB0101911
+

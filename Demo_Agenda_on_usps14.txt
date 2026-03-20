@@ -1,0 +1,18 @@
+(AK)	1.	Create a KB article              KB0254821
+(AK)		a.	Show emails
+(AK)	2.	Publish the KB Article
+(AK)		a.	Show emails
+
+(KB0026732 OG= Environmental Toolkit HQ,KB0028331 OG=SDS CEI )  
+(impersonate Susan X Liao = belongs to both OG groups.  impersonate Jin Cheng = belongs to only SDS CEI  group)
+(Note these two users have only snc_internal + itil, but not admin.
+
+(SD)	3.	Who can Edit the articles         
+(SD) 	4.	Who can retire the articles       
+(AK) 	5.	Demo Editing and publishing the article (existing)
+(AK) 	6.	Demo retiring the article   (existing)
+
+
+
+
+

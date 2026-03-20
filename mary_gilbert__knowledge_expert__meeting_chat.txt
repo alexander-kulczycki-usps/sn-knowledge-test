@@ -1,0 +1,81 @@
+Erin Simpson 12:05 PM
+I cannot see them either, sorry!
+
+Joel Hurford 12:06 PM
+how about now?
+
+Joel Hurford 12:06 PM
+Who are the authors of your knowledge articles? (describe their day-to-day responsibilities and how much time they have for authoring)
+Are you familiar with Knowledge Centered Service (KCS) principles?
+Are you using the Knowledge Dashboard?
+Do you know the articles that are most frequently used? What makes them more relevant than your least frequently used?
+
+Erin Simpson 12:06 PM
+Now I see them!
+
+Wotrang, Brandon M - Eagan, MN 12:06 PM
+We can see them now
+
+Halvorson, Chad A - Eagan, MN 12:06 PM
+Yes, seeing them now
+
+Wolf, Nicholas E - Eagan, MN 12:06 PM
+I don't have any Hiwave Cases for resetting admin. Would it be best to request one through the catalog?
+
+Joel Hurford 12:13 PM
+Knowledge article count by knowledge base:
+(draft, review, published, pending retirement, outdated)
+
+IT Knowledge - 17,829
+Finance & Strategy - 479
+Surface Transportation - 69
+
+Macejkovic, Amie M - Eagan, MN 12:16 PM
+@Halvorson, Chad A - Eagan, MN -- Knowledge Management | ServiceNow
+
+Wotrang, Brandon M - Eagan, MN 12:17 PM
+Q1. Who are the authors of your knowledge articles? (describe their day-to-day responsibilities and how much time they have for authoring)
+ 
+              A1. Any KB admin can be an Author. Our knowledge base is spread across hundreds of owner groups. These individuals have regular work responsibilities. knowledge management is a very minor responsibility of these individuals.
+ 
+ 
+Q2. Are you familiar with Knowledge Centered Service (KCS) principles?
+ 
+              A2. We (The ITSD) are familiar with KCS and have had prior KCS training (Years ago 5+). We could use a refresher. Postal as a whole is likely not using it
+ 
+ 
+Q3. Are you using the Knowledge Dashboard?
+ 
+              A3. Yes. We have a custom dashboard.
+ 
+ 
+Q4. Do you know the articles that are most frequently used? What makes them more relevant than your least frequently used?
+ 
+              A4. We are aware of the View Count of the articles and can quickly source the most used articles.
+
+Halvorson, Chad A - Eagan, MN 12:20 PM
+Where on that dashboard is it showing us most used search terms?
+
+Macejkovic, Amie M - Eagan, MN 12:20 PM
+I don't see that either.
+
+Macejkovic, Amie M - Eagan, MN 12:24 PM
+We are streamlining our approval process and it will minimize it down to 1 approval from the ownership group.  It's currently in development.
+
+Joel Hurford 12:25 PM
+IT Knowledge knowledge base:
+
+Draft: 336
+Published: 3477
+Review: 100
+
+Outdated: 13,916
+Retired: 17,321
+
+Wolf, Nicholas E - Eagan, MN 12:26 PM
+https://usps.servicenowservices.com/now/knowledge-center/knowledge-hub
+
+Using AI Search should help with how things are found.
+
+Halvorson, Chad A - Eagan, MN 12:27 PM
+Absolutely

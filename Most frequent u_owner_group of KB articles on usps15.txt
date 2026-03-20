@@ -1,0 +1,48 @@
+// System Definition > Scripts - Background
+var ga = new GlideAggregate('kb_knowledge');
+ga.addEncodedQuery('workflow_state!=retired^latest=true^active=true');
+ga.addAggregate('COUNT');
+ga.groupBy('u_owner_group');
+ga.query();
+
+var rows = [];
+while (ga.next()) {
+  var groupName = ga.getDisplayValue('u_owner_group') || '(empty)';
+  var count = parseInt(ga.getAggregate('COUNT'), 10);
+  rows.push({ name: groupName, count: count });
+}
+
+// Sort by count DESC, then name ASC
+rows.sort(function(a, b) {
+  if (b.count !== a.count) return b.count - a.count;
+  return a.name.localeCompare(b.name);
+});
+
+// Output
+for (var i = 0; i < rows.length; i++) {
+  gs.info(rows[i].count + ' | ' + rows[i].name);
+}
+
+
+
+[0:00:01.242] Script completed in scope global: scriptScript execution history and recovery available here
+
+Time: 0:00:00.123 id: usps15_1[glide.15] primary_hash=-810118313 category=dynamic (connpid=16240) for: SELECT kb_knowledge0.`u_owner_group` AS `u_owner_group`, sys_user_group1.`name` AS `u_owner_group_name`, count(*) AS recordcount FROM (kb_knowledge kb_knowledge0  LEFT JOIN sys_user_group sys_user_group1 ON kb_knowledge0.`u_owner_group` = sys_user_group1.`sys_id` )  WHERE kb_knowledge0.`workflow_state` != 'retired' AND kb_knowledge0.`latest` = 1 AND kb_knowledge0.`active` = 1 GROUP BY kb_knowledge0.`u_owner_group`, sys_user_group1.`name`,sys_user_group1.`name` ORDER BY sys_user_group1.`name` /* usps15024, gs:5C3127848777F210C786EA470CBB3567, tx:8366eb4887b7f210c786ea470cbb350b, hash:-810118313 */ 
+*** Script: 2971 | (empty)
+*** Script: 610 | IT Service Desk
+*** Script: 424 | ITPA ESM 24X7
+*** Script: 346 | SDS DOIS
+*** Script: 270 | RSS Knowledge
+*** Script: 215 | SDS PostalOne Internal
+*** Script: 163 | IBM Tier 3 Support
+*** Script: 154 | SDS Time & Attendance
+*** Script: 145 | ETE Digital Communications
+*** Script: 145 | ServiceNow Support
+*** Script: 138 | IS IT Application
+*** Script: 135 | Finance & Strategy
+*** Script: 127 | ITPA Problem Management
+*** Script: 114 | ETE Integration
+*** Script: 110 | eAccess HQ
+...
+*** Script: 7 | SDS CEI
+...

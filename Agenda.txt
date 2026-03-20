@@ -1,0 +1,9 @@
+1.	Email Notifications
+a.	What are all the emails that we’re currently getting
+b.	What are all the emails that are Out of Box? 
+2.	Author field – who should this be limited to:
+a.	Active
+b.	Itil?
+3.	Met  with PLMS team – propose date for pushing changes to usps13
+4.	Meet with STAF/SIR/VR teams with their own KB
+5.	?

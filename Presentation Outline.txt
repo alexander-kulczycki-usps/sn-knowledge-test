@@ -1,0 +1,32 @@
+Main flow:
+* Author creates a KB article and requests to publish (show email notifications to author and Ownership Group that approval is needed)
+* Ownership Group member publishes the KB Article   (show email notifications to author and Ownership Group that article was published)
+* Ownership Group member revises an existing published article, requests to publish, and publishes.         
+* Ownership Group member requests to retire a published article, and approves the retirement request.  
+
+Alternate flow:
+* OG member rejects article submitted for publish, it goes back to Draft.  Author edits draft article and re-submits for publication.  OG approves.
+OG member un-retires an article.
+
+Restrictions: 
+* Author creates a KBA where the entire article is restricted to one or more groups.  The article is published.  Users belonging/not belonging to the group attempt to view the article.
+* Author creates a KBA where certain sections are restricted to one or more groups.  The article is published.  Users belonging/not belonging to the group attempt to view the article.
+Author creates an unrestricted KBA, and asks to publish.  OG reviewing the request makes the entire article restricted.
+Author creates an unrestricted KBA, and asks to publish.  OG reviewing the request makes certain sections of the article restricted.
+
+Expiration:
+Admin or system runs job.  System generates email notification to OG members informing them of articles that will expire in next month (per valid_to date)
+Admin or system runs job.  System generates email notification to OG members informing them of articles that have expired (per valid_to date)
+OG member edits expired/expiring article and sets valid_to to a future date.
+OG member retires an expired/expiring article.
+
+Feedback:
+User provides feedback on article.
+OG member views feedback on article.
+
+Reporting:
+A KB manager views knowledge dashboard reports.
+
+
+
+
