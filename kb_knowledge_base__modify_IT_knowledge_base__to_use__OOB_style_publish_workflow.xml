@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-03-05 15:33:10">
+<kb_knowledge_base action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value=""/>
+<approval_description/>
+<article_validity>365</article_validity>
+<card_color/>
+<checklist display_value=""/>
+<data_policy display_value="Data policy for IT Knowledge knowledge base">37bfb1236f6ade00b7e659212e3ee452</data_policy>
+<description/>
+<disable_category_editing>true</disable_category_editing>
+<disable_commenting>false</disable_commenting>
+<disable_mark_as_helpful>false</disable_mark_as_helpful>
+<disable_rating>false</disable_rating>
+<disable_suggesting>false</disable_suggesting>
+<enable_socialqa>false</enable_socialqa>
+<icon/>
+<kb_managers>d05132511bbc0190bbce62cae54bcbf5,46dcbc2ddb158490955e3638fc961900,b79eb9916f7d210064cc8d412e3ee42b,7af39e916fbd210064cc8d412e3ee430,2a9d02681b159454dbd7ed39bc4bcb35,6e5e77c0db9b0380392a76721f96199c,3ebb79dd6f3d210064cc8d412e3ee45b,468d39516f7d210064cc8d412e3ee463</kb_managers>
+<kb_publish_flow display_value=""/>
+<kb_retire_flow display_value=""/>
+<kb_version>3</kb_version>
+<mandatory_fields/>
+<order/>
+<owner display_value="Xiaowen Huang">1a355ed16fbd210064cc8d412e3ee44a</owner>
+<question_annotation/>
+<retire_workflow display_value="Knowledge - Instant Retire">3d18ef12c30031000096dfdc64d3aeb6</retire_workflow>
+<sys_created_by>VQC6B0</sys_created_by>
+<sys_created_on>2016-04-09 02:34:13</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>7b3f3def6f2ade00b7e659212e3ee450</sys_id>
+<sys_mod_count>38</sys_mod_count>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-03-05 15:27:34</sys_updated_on>
+<table>kb_knowledge</table>
+<template/>
+<title>IT Knowledge</title>
+<workflow display_value="Knowledge - Approval Publish - add emails">cf5f25d74713fa90b64588ff336d43de</workflow>
+</kb_knowledge_base>
+</unload>

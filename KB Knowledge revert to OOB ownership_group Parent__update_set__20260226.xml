@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2026-02-26 18:43:21">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>KB Knowledge revert to OOB ownership_group Parent</description>
+<inserted/>
+<name>KB Knowledge revert to OOB ownership_group Parent</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="KB Knowledge revert to OOB ownership_group Parent">05e818f1479ffe14b64588ff336d433f</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>f9a6daa747da7250b64588ff336d430b</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>05e818f1479ffe14b64588ff336d433f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>KB Knowledge revert to OOB ownership_group Parent</description>
+<inserted/>
+<name>KB Knowledge revert to OOB ownership_group Parent</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="KB Knowledge revert to OOB ownership_group Parent">05e818f1479ffe14b64588ff336d433f</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>f9a6daa747da7250b64588ff336d430b</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>05e818f1479ffe14b64588ff336d433f</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>KB BNS0244536 Knowledge Management - On Knowledge Base Articles [kb_knowledge], deactivate kb_knowledge.u_owner_group custom field and use  kb_knowledge.ownership_group OOB field instead.</description>
+<inserted/>
+<name>KB Knowledge revert to OOB ownership_group</name>
+<origin_sys_id/>
+<parent display_value="KB Knowledge revert to OOB ownership_group Parent">05e818f1479ffe14b64588ff336d433f</parent>
+<release_date/>
+<remote_base_update_set display_value="KB Knowledge revert to OOB ownership_group Parent">05e818f1479ffe14b64588ff336d433f</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>65a69aa747da7250b64588ff336d432c</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>85e818f1479ffe14b64588ff336d4340</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</application>
+<application_name>GRC: Policy and Compliance Management</application_name>
+<application_scope>sn_compliance</application_scope>
+<application_version>20.2.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>KB Knowledge revert to OOB ownership_group for GRC</description>
+<inserted/>
+<name>KB Knowledge revert to OOB ownership_group for GRC app</name>
+<origin_sys_id/>
+<parent display_value="KB Knowledge revert to OOB ownership_group Parent">05e818f1479ffe14b64588ff336d433f</parent>
+<release_date/>
+<remote_base_update_set display_value="KB Knowledge revert to OOB ownership_group Parent">05e818f1479ffe14b64588ff336d433f</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>e5a65aa747da7250b64588ff336d43a8</remote_sys_id>
+<state>in_hierarchy</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>d5e81cf1479ffe14b64588ff336d4391</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_216912e31b559e10c0bb2062f54bcbf2</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;kb_knowledge&lt;/collection&gt;&lt;condition/&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_digest&gt;false&lt;/default_digest&gt;&lt;default_interval/&gt;&lt;description&gt;This is used when a user checks out an existing article and leaves it in draft status for 7 days&lt;/description&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digest_type&gt;single&lt;/digest_type&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;aar.slmnotif&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;triggered&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;Hello ${revised_by.name},&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Your article ${number} &lt;span data-teams="true"&gt;&lt;span dir="ltr"&gt;has been in draft status for 7 Days. Please click "Publish" or if it is no longer needed, please click "Delete" to remove it.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span data-teams="true"&gt;&lt;span dir="ltr"&gt;Thanks,&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-teams="true"&gt;&lt;span dir="ltr"&gt;ServiceNow Support Team&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;KB - Draft Article Reminder&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields&gt;revised_by.email&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;false&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;KB article ${number} has been in draft status for 7 Days&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;X2GYH0&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-23 12:08:41&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;216912e31b559e10c0bb2062f54bcbf2&lt;/sys_id&gt;&lt;sys_mod_count&gt;22&lt;/sys_mod_count&gt;&lt;sys_name&gt;KB - Draft Article Reminder&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_216912e31b559e10c0bb2062f54bcbf2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-01-08 17:16:56&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template/&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1346675754</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>0de818f1479ffe14b64588ff336d4340</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40e50000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge</table>
+<target_name>KB - Draft Article Reminder</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>313fa33df8d67a9cba1cf8da8b8cd95e</update_guid>
+<update_guid_history>313fa33df8d67a9cba1cf8da8b8cd95e:-1346675754,a4411bef0ed11650a72d72eef1a76eec:-1375676370</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_d20ff8ab53012300cc376512a2dc3483</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Enable ownership group for Knowledge articles.&#13;
+[Note: After enabling this property, it is not recommended to disable it.]</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>glide.knowman.ownership_group.enabled</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2018-10-15 13:13:55</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>d20ff8ab53012300cc376512a2dc3483</sys_id><sys_mod_count>1</sys_mod_count><sys_name>glide.knowman.ownership_group.enabled</sys_name><sys_package display_value="Knowledge Management Advanced" source="com.snc.knowledge_advanced">81b0d40adb01f30042d27d0e0f96194d</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_d20ff8ab53012300cc376512a2dc3483</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2025-12-15 19:11:06</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=d20ff8ab53012300cc376512a2dc3483"/></record_update>]]></payload>
+<payload_hash>822524584</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>11e81cf1479ffe14b64588ff336d4382</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40b30000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table/>
+<target_name>glide.knowman.ownership_group.enabled</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>d633a41ef3757ed0e4ede8ee2c0e6b15</update_guid>
+<update_guid_history>d633a41ef3757ed0e4ede8ee2c0e6b15:822524584,9833601e06757ed081dcfeee62bee234:1446179687</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_filter_e3845c6e1bee7a101c96db1ee54bcb2f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="sys_user">emailINAaron.Hudson@usps.gov,Aaron.J.Hawk@usps.gov,Aaron.J.Robinson2@usps.gov,Aaron.L.Rust@usps.gov,AAyompe@uspis.gov,Abdullah.A.Mamun@usps.gov,Abigail.A.Nacional@usps.gov,Ahmed.M.Abubakar@usps.gov,Aileen.D.Oleary@usps.gov,Albert.Leon@usps.gov,Alberto.B.Delgado@usps.gov,Alexandria.F.Nason@usps.gov,Allan.L.Rockwell@usps.gov,AMHall@uspis.gov,Amie.M.Macejkovic@usps.gov,Amy.X.Yang@usps.gov,Andrew.R.Swanson2@usps.gov,Anitrus.Jones@usps.gov,Ann.Kopicki@usps.gov,ann.m.haywood@usps.gov,Anoop.K.Verma@usps.gov,Anthony.R.Chrissis@usps.gov,april.m.vaughan@usps.gov,Arnold.T.Banzon@usps.gov,Ashish.Maini@usps.gov,Asif.Saifullah@usps.gov,Ayoub.Rahhali@usps.gov,,^EQ<item endquery="false" field="email" goto="false" newquery="false" operator="IN" or="false" value="Aaron.Hudson@usps.gov,Aaron.J.Hawk@usps.gov,Aaron.J.Robinson2@usps.gov,Aaron.L.Rust@usps.gov,AAyompe@uspis.gov,Abdullah.A.Mamun@usps.gov,Abigail.A.Nacional@usps.gov,Ahmed.M.Abubakar@usps.gov,Aileen.D.Oleary@usps.gov,Albert.Leon@usps.gov,Alberto.B.Delgado@usps.gov,Alexandria.F.Nason@usps.gov,Allan.L.Rockwell@usps.gov,AMHall@uspis.gov,Amie.M.Macejkovic@usps.gov,Amy.X.Yang@usps.gov,Andrew.R.Swanson2@usps.gov,Anitrus.Jones@usps.gov,Ann.Kopicki@usps.gov,ann.m.haywood@usps.gov,Anoop.K.Verma@usps.gov,Anthony.R.Chrissis@usps.gov,april.m.vaughan@usps.gov,Arnold.T.Banzon@usps.gov,Ashish.Maini@usps.gov,Asif.Saifullah@usps.gov,Ayoub.Rahhali@usps.gov,,"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-22 19:32:44</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>e3845c6e1bee7a101c96db1ee54bcb2f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>reg-notif-email-users</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_filter_e3845c6e1bee7a101c96db1ee54bcb2f</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-22 19:32:44</sys_updated_on><table>sys_user</table><title>reg-notif-email-users</title><user/></sys_filter></record_update>]]></payload>
+<payload_hash>-1628978552</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>15e81cf1479ffe14b64588ff336d437b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19be731e04f0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>sys_user</table>
+<target_name>reg-notif-email-users</target_name>
+<type>Filter</type>
+<update_domain>global</update_domain>
+<update_guid>ef845c6e5fee7a10498abb8d16895a33</update_guid>
+<update_guid_history>ef845c6e5fee7a10498abb8d16895a33:-1628978552</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_b32001bd6f9c71005a807eeeae3ee485</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Knowledge Feedback" name="Knowledge Feedback"&gt;d855a0a4db361300b9c2f9231f9619fc&lt;/category&gt;&lt;collection&gt;kb_feedback&lt;/collection&gt;&lt;condition table="kb_feedback"&gt;u_statusCHANGESTO0^EQ&lt;item display_value="Submitted" endquery="false" field="u_status" goto="false" newquery="false" operator="CHANGESTO" or="false" value="0"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;content_type&gt;multipart/mixed&lt;/content_type&gt;&lt;default_digest&gt;false&lt;/default_digest&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digest_type&gt;single&lt;/digest_type&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;approval.cancelled&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message&gt;&lt;![CDATA[New feedback has been submitted for the knowledge article below.
+
+Knowledge Article: ${article.URI_REF}
+Feedback Number: ${URI_REF}
+Created: ${sys_created_on}
+User: ${user}
+Comments: ${comments}
+
+]]&gt;&lt;/message&gt;&lt;message_html&gt;&lt;![CDATA[&lt;div&gt;New feedback has been submitted for the knowledge article below.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Knowledge Article: ${article.URI_REF}&lt;/div&gt;
+&lt;div&gt;Feedback Number: ${URI_REF}&lt;/div&gt;
+&lt;div&gt;Created: ${sys_created_on}&lt;/div&gt;
+&lt;div&gt;User: ${user}&lt;/div&gt;
+&lt;div&gt;Comments: ${comments}&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Feedback Submitted - Ownership Group&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields&gt;article.author,article.ownership_group&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;Feedback Submitted for Knowledge Article&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rachel.erickson&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2014-11-10 22:44:29&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;b32001bd6f9c71005a807eeeae3ee485&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;Feedback Submitted - Ownership Group&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_b32001bd6f9c71005a807eeeae3ee485&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-01-08 16:57:42&lt;/sys_updated_on&gt;&lt;sys_version&gt;1&lt;/sys_version&gt;&lt;template/&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-639081832</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>19e81cf1479ffe14b64588ff336d4351</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40d40000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_feedback</table>
+<target_name>Feedback Submitted - Ownership Group</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>c8da6f31e9967a9cf0233f692437a129</update_guid>
+<update_guid_history>c8da6f31e9967a9cf0233f692437a129:-639081832,0eaa6ffdc1567a9c47afbdb38da1e578:742570232,f64a63bd00567a9c470d289d95efaac5:791414243,-1726377766:-1726377766,-430612931:-430612931</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_filter_29d8f5721be672501c96db1ee54bcbe3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="sysevent_email_action">collection=kb_knowledge^NQevent_nameSTARTSWITHkb.article^ORevent_nameLIKEarticle^EQ<item endquery="false" field="collection" goto="false" newquery="false" operator="=" or="false" value="kb_knowledge"/><item endquery="false" field="event_name" goto="false" newquery="true" operator="STARTSWITH" or="false" value="kb.article"/><item endquery="false" field="event_name" goto="false" newquery="false" operator="LIKE" or="true" value="article"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-23 21:29:21</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>29d8f5721be672501c96db1ee54bcbe3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Table is kb_knowledge or event name contains article</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_filter_29d8f5721be672501c96db1ee54bcbe3</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-23 21:29:21</sys_updated_on><table>sysevent_email_action</table><title>Table is kb_knowledge or event name contains article</title><user/></sys_filter></record_update>]]></payload>
+<payload_hash>1755611166</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>19e81cf1479ffe14b64588ff336d4374</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19becc300920000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>sysevent_email_action</table>
+<target_name>Table is kb_knowledge or event name contains article</target_name>
+<type>Filter</type>
+<update_domain>global</update_domain>
+<update_guid>e5d87d7282e67250a5af21e64f2af94c</update_guid>
+<update_guid_history>e5d87d7282e67250a5af21e64f2af94c:1755611166</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_1f1a5586c0a8016b00a4b78b75cbd3f2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="1f1a5586c0a8016b00a4b78b75cbd3f2" sys_domain="global" table="kb_knowledge" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>40ad2610477ebe54b64588ff336d43da</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>kb_knowledge_base</element><position>1</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>88ad2610477ebe54b64588ff336d43db</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>kb_category</element><position>2</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>08ad2610477ebe54b64588ff336d43dc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_cmdb_ci_service</element><position>3</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>84ad2610477ebe54b64588ff336d43dd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cmdb_ci</element><position>4</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>04ad2610477ebe54b64588ff336d43de</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>published</element><position>5</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>80ad2610477ebe54b64588ff336d43df</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>valid_to</element><position>6</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>10ad2610477ebe54b64588ff336d43e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>display_attachments</element><position>7</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>9cad2610477ebe54b64588ff336d43e0</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_featured</element><position>8</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>1cad2610477ebe54b64588ff336d43e1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_icon</element><position>9</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>98ad2610477ebe54b64588ff336d43e2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>10</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>18ad2610477ebe54b64588ff336d43e3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>workflow_state</element><position>11</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>94ad2610477ebe54b64588ff336d43e4</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>author</element><position>12</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>14ad2610477ebe54b64588ff336d43e5</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ownership_group</element><position>13</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>90ad2610477ebe54b64588ff336d43e6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_restricted_article</element><position>14</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>10ad2610477ebe54b64588ff336d43e7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_group</element><position>15</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>1cad6610477ebe54b64588ff336d4300</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>16</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>98ad6610477ebe54b64588ff336d4301</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>short_description</element><position>17</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>18ad6610477ebe54b64588ff336d4302</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>18</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>94ad6610477ebe54b64588ff336d4303</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_application_website</element><position>19</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>14ad6610477ebe54b64588ff336d4304</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>text</element><position>20</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>90ad6610477ebe54b64588ff336d4305</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_restricted_sections</element><position>21</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>10ad6610477ebe54b64588ff336d4306</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_groups_body_1</element><position>22</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>9cad6610477ebe54b64588ff336d4306</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_private_text_1</element><position>23</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>1cad6610477ebe54b64588ff336d4307</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_groups_body_2</element><position>24</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>98ad6610477ebe54b64588ff336d4308</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_private_text_2</element><position>25</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>18ad6610477ebe54b64588ff336d4309</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_groups_body_3</element><position>26</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>94ad6610477ebe54b64588ff336d430a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_private_text_3</element><position>27</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>14ad6610477ebe54b64588ff336d430b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_groups_body_4</element><position>28</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>90ad6610477ebe54b64588ff336d430c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_private_text_4</element><position>29</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>d4ad6610477ebe54b64588ff336d4319</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_groups_body_5</element><position>30</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>54ad6610477ebe54b64588ff336d431a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_private_text_5</element><position>31</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>d0ad6610477ebe54b64588ff336d431b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>meta</element><position>32</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>50ad6610477ebe54b64588ff336d431c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_work_notes</element><position>33</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>dcad6610477ebe54b64588ff336d431c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>34</position><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-28 17:10:53</sys_created_on><sys_id>5cad6610477ebe54b64588ff336d431d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="NULL" display_value="" name="kb_knowledge" sys_domain="global" view="Default view">1f1a5586c0a8016b00a4b78b75cbd3f2</sys_ui_section><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-28 17:10:53</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>kb_knowledge</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>glide.maint</sys_created_by><sys_created_on>2005-10-23 20:10:18</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>1f1a5586c0a8016b00a4b78b75cbd3f2</sys_id><sys_mod_count>1</sys_mod_count><sys_name>kb_knowledge</sys_name><sys_overrides/><sys_package display_value="Knowledge Management" source="com.glideapp.knowledge">4b605d536f57d100736964826e3ee45d</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_1f1a5586c0a8016b00a4b78b75cbd3f2</sys_update_name><sys_updated_by>VJP6F0</sys_updated_by><sys_updated_on>2018-04-25 14:05:02</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>2051390092</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>19e81cf1479ffe14b64588ff336d438f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19c05962bdd0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge</table>
+<target_name>Knowledge</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>14ad66109f7ebe54db7926fad3294b25</update_guid>
+<update_guid_history>14ad66109f7ebe54db7926fad3294b25:2051390092,e76496e00ae7999047b1cd5f0234cde1:1078688395,5b4c5d1c3f075950cf181da045624399:-1549113812,a98304b9f4c5d5506b9e33d77fd46ee0:-40875282,82b8b0e141eed110106673bece610786:286948505,f0f165a8ae661910016042e63f5d58b0:286948505,a98304b9f4c5d5506b9e33d77fd46ee0:-40875282,348b6360bc7a9190bdf1f4a1f43b0aa8:-22673076,c3047f78a1447380b3c8cad771a7b4e6:286948505,ce40850d60672b8061fc1536a7a3d82b:1635314909,ce40850d60672b8061fc1536a7a3d82b:1635314909,21efbcc971672b806be5945595c9f547:-825632700,a71459905e2fe3802f0edbe53d75111c:-1433407130,5e784d9cc5abe3804689f58f1fe9035f:1112891109,1b76cdd82eabe3804e12a57e65c126d6:-897450328,bc60b8581e2f2b4008863ae90fb32483:-2116166923,80558876aa07d340f1f05dec4e6e302a:-937792510,673508763f07d3405313338822a88945:-1851491414,d37f30fd1bc7df001017e5dc4a3bfb90:-354048343,611e7c7d34c7df0043a6e5432b9fe7d3:492723055,2106862499:2106862499,-1631532584:-1631532584,-798184221:-798184221,-644787767:-644787767,543268589:543268589,-433723631:-433723631,-1746602280:-1746602280,-433723631:-433723631,-1171426256:-1171426256,-433723631:-433723631,2077886630:2077886630,-433723631:-433723631,-1772402840:-1772402840,-433723631:-433723631,776637954:776637954,1422993572:1422993572,460201065:460201065,1124383149:1124383149,-839312383:-839312383</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_e3fb375f6f2315005a807eeeae3ee410</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_label/&gt;&lt;action_name/&gt;&lt;action_query&gt;true&lt;/action_query&gt;&lt;action_run_at&gt;server&lt;/action_run_at&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;application/&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;kb_knowledge&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;USPS_Group Separation in Knowledge Base&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;read_access_action&gt;false&lt;/read_access_action&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+	// Check restrictions if user is not an admin or knowledge manager
+	if (!gs.hasRole('admin') &amp;&amp; !gs.hasRole('knowledge_manager') &amp;&amp; gs.getSession().isInteractive()) {
+		var userSysId = gs.getUserID();
+		var groupSysIds = new global.ArrayUtil().convertArray(gs.getUser().getMyGroups());
+		
+		var queryCondition = [];
+		queryCondition.push('author=' + userSysId); //Author
+		queryCondition.push('u_groupISEMPTY'); //Restricted Group is empty
+		queryCondition.push('u_groupIN' + groupSysIds.toString()); //Restricted group is one of my groups
+		queryCondition.push('ownership_groupIN' + groupSysIds.toString()); //Ownership group is one of my groups
+		current.addEncodedQuery(queryCondition.join('^OR'));
+	}
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;david.i.stevenson&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2014-03-25 01:18:23&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;e3fb375f6f2315005a807eeeae3ee410&lt;/sys_id&gt;&lt;sys_mod_count&gt;37&lt;/sys_mod_count&gt;&lt;sys_name&gt;USPS_Group Separation in Knowledge Base&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_e3fb375f6f2315005a807eeeae3ee410&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-01-06 20:14:33&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>2079847461</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>1de81cf1479ffe14b64588ff336d4388</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40cb0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge</table>
+<target_name>USPS_Group Separation in Knowledge Base</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>88b4cad1f19afa5c91164d7e241217f3</update_guid>
+<update_guid_history>88b4cad1f19afa5c91164d7e241217f3:2079847461,16a30e5ddc5afa5ca726585b90fe37db:-458179895,180759e3d8c877c0049d06afa398cf48:-911114889,d58c2ca760c0bf80901fcc58322c182c:-24486650,828274d350c07f8050cb44c0c1a4ac92:-1243796883,1886496871:1886496871,-1288586041:-1288586041,880316972:880316972,-1434811156:-1434811156,-1766314930:-1766314930,1574268300:1574268300,1904047332:1904047332,-1900824572:-1900824572,-1613485675:-1613485675,884699289:884699289</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_a6750fab47dd5e10bae31864336d4358</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Uncategorized" name="Uncategorized"&gt;c97d83137f4432005f58108c3ffa917a&lt;/category&gt;&lt;collection&gt;kb_knowledge&lt;/collection&gt;&lt;condition/&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_digest&gt;false&lt;/default_digest&gt;&lt;default_interval/&gt;&lt;description&gt;This is used when a user creates a new article and leaves it in draft status for 7 days&lt;/description&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digest_type&gt;single&lt;/digest_type&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;aar.slmnotif&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;triggered&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;Hello ${author.name},&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Your article ${number} &lt;span data-teams="true"&gt;&lt;span dir="ltr"&gt;has been in draft status for 7 Days. Please click "Publish" or if it is no longer needed, please click "Delete" to remove it.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span data-teams="true"&gt;&lt;span dir="ltr"&gt;Thanks,&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span data-teams="true"&gt;&lt;span dir="ltr"&gt;ServiceNow Support Team&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;KB - Draft Article Reminder New article&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields&gt;author&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;false&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;KB article ${number} has been in draft status for 7 Days&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;X2GYH0&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-23 15:20:07&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;a6750fab47dd5e10bae31864336d4358&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;KB - Draft Article Reminder New article&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_a6750fab47dd5e10bae31864336d4358&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-01-08 17:18:45&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template/&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>653476291</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>4de81cf1479ffe14b64588ff336d434f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40e80000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge</table>
+<target_name>KB - Draft Article Reminder New article</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>24afebbd61d67a9c4ce96510383c5454</update_guid>
+<update_guid_history>24afebbd61d67a9c4ce96510383c5454:653476291,1f419beff2d11650856edb5f2c9ada15:1828568972</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_8fd8b7986f1871005a807eeeae3ee405</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_label/&gt;&lt;action_name/&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_run_at&gt;server&lt;/action_run_at&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;application/&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;kb_feedback&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Set Initial Values&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;read_access_action&gt;false&lt;/read_access_action&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[// If comments exist, set Status to Submitted, copy Short description from knowledge article
+
+if(current.comments!="") {
+	current.u_status = '0';
+}
+
+current.u_short_description = current.article.short_description;]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rachel.erickson&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2014-11-06 20:19:33&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;8fd8b7986f1871005a807eeeae3ee405&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Set Initial Values&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_8fd8b7986f1871005a807eeeae3ee405&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-01-07 21:29:05&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1692537662</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>51e81cf1479ffe14b64588ff336d4387</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40d20000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_feedback</table>
+<target_name>Set Initial Values</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>b95f5f215dd6f29ceaca2011d1cd74e5</update_guid>
+<update_guid_history>b95f5f215dd6f29ceaca2011d1cd74e5:1692537662,1412865631:1412865631,-535430784:-535430784</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_67efaa2653130010733addeeff7b12bd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Allow approval of self-authored article as ownership group member. </description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>glide.knowman.ownership_group.allow_self_approval</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-05 07:36:45</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>67efaa2653130010733addeeff7b12bd</sys_id><sys_mod_count>1</sys_mod_count><sys_name>glide.knowman.ownership_group.allow_self_approval</sys_name><sys_package display_value="Knowledge Management Advanced" source="com.snc.knowledge_advanced">81b0d40adb01f30042d27d0e0f96194d</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_67efaa2653130010733addeeff7b12bd</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2025-12-23 21:11:34</sys_updated_on><type>boolean</type><value>false</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=67efaa2653130010733addeeff7b12bd"/></record_update>]]></payload>
+<payload_hash>-1746392398</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>55e81cf1479ffe14b64588ff336d4380</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40be0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table/>
+<target_name>glide.knowman.ownership_group.allow_self_approval</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>937b4ef4edc23ad4aef4d51c8c3039b9</update_guid>
+<update_guid_history>937b4ef4edc23ad4aef4d51c8c3039b9:-1746392398,367b4ef42dc23ad4ccada3f0ed708438:2105011709</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_kb_knowledge_u_owner_group</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_owner_group" table="kb_knowledge"><active>false</active><array>false</array><attributes>encode_utf8=false</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Owner Group</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_owner_group</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>kb_knowledge</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="sys_user_group">sys_user_group</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual>active=true^u_is_this_a_support_group_orga=false^typeLIKE9f5243ebdbf12200392a76721f9619af^ORtypeLIKEa45e30ad1b107dd0f01ced3ce54bcb44^ORtypeLIKE2a5eb4ad1b107dd0f01ced3ce54bcbe3^ORtypeLIKEd46ef4ad1b107dd0f01ced3ce54bcb1b^ORtypeLIKE52e0d6181b31b5d044639796bc4bcb23^ORtypeLIKE176eb8ad1b107dd0f01ced3ce54bcb6b^ORtypeLIKE558eb4ed1b107dd0f01ced3ce54bcb41^ORtypeLIKE9f7e74ed1b107dd0f01ced3ce54bcbdb^ORtypeLIKE469eb4ed1b107dd0f01ced3ce54bcbcd^ORtypeLIKE152ef46d1b107dd0f01ced3ce54bcb32^ORtypeLIKEd62e746d1b107dd0f01ced3ce54bcb56^ORtypeLIKE188e70ed1b107dd0f01ced3ce54bcb9a^ORtypeLIKEd72eb06d1b107dd0f01ced3ce54bcbb6^ORtypeLIKEf83e386d1b107dd0f01ced3ce54bcbff^ORtypeLIKE7d0e3c2d1b107dd0f01ced3ce54bcb30^ORtypeLIKE7f3ef86d1b107dd0f01ced3ce54bcb8b^ORtypeLIKEd31437bb6fdb3100d81548354b3ee4b7^ORtypeLIKE8d4efc6d1b107dd0f01ced3ce54bcb3f^ORtypeLIKE396e78ad1b107dd0f01ced3ce54bcb19^ORtypeLIKE18aef4ed1b107dd0f01ced3ce54bcb8b^ORtypeLIKE3c7eb8ad1b107dd0f01ced3ce54bcbf9^ORtypeLIKE439ef4ed1b107dd0f01ced3ce54bcb89^ORtypeLIKEda8eb4ed1b107dd0f01ced3ce54bcb42^ORtypeLIKEcd0192581b31b5d044639796bc4bcbf0^ORtypeLIKE5b8eb4ed1b107dd0f01ced3ce54bcb3b^ORtypeLIKE566d80f01b47f9542a9bdbd4cc4bcbf1^ORtypeLIKE0d9e78ed1b107dd0f01ced3ce54bcbc0^EQ</reference_qual><reference_qual_condition table="sys_user_group">active=true^u_is_this_a_support_group_orga=false^typeLIKE9f5243ebdbf12200392a76721f9619af^ORtypeLIKEa45e30ad1b107dd0f01ced3ce54bcb44^ORtypeLIKE2a5eb4ad1b107dd0f01ced3ce54bcbe3^ORtypeLIKEd46ef4ad1b107dd0f01ced3ce54bcb1b^ORtypeLIKE52e0d6181b31b5d044639796bc4bcb23^ORtypeLIKE176eb8ad1b107dd0f01ced3ce54bcb6b^ORtypeLIKE558eb4ed1b107dd0f01ced3ce54bcb41^ORtypeLIKE9f7e74ed1b107dd0f01ced3ce54bcbdb^ORtypeLIKE469eb4ed1b107dd0f01ced3ce54bcbcd^ORtypeLIKE152ef46d1b107dd0f01ced3ce54bcb32^ORtypeLIKEd62e746d1b107dd0f01ced3ce54bcb56^ORtypeLIKE188e70ed1b107dd0f01ced3ce54bcb9a^ORtypeLIKEd72eb06d1b107dd0f01ced3ce54bcbb6^ORtypeLIKEf83e386d1b107dd0f01ced3ce54bcbff^ORtypeLIKE7d0e3c2d1b107dd0f01ced3ce54bcb30^ORtypeLIKE7f3ef86d1b107dd0f01ced3ce54bcb8b^ORtypeLIKEd31437bb6fdb3100d81548354b3ee4b7^ORtypeLIKE8d4efc6d1b107dd0f01ced3ce54bcb3f^ORtypeLIKE396e78ad1b107dd0f01ced3ce54bcb19^ORtypeLIKE18aef4ed1b107dd0f01ced3ce54bcb8b^ORtypeLIKE3c7eb8ad1b107dd0f01ced3ce54bcbf9^ORtypeLIKE439ef4ed1b107dd0f01ced3ce54bcb89^ORtypeLIKEda8eb4ed1b107dd0f01ced3ce54bcb42^ORtypeLIKEcd0192581b31b5d044639796bc4bcbf0^ORtypeLIKE5b8eb4ed1b107dd0f01ced3ce54bcb3b^ORtypeLIKE566d80f01b47f9542a9bdbd4cc4bcbf1^ORtypeLIKE0d9e78ed1b107dd0f01ced3ce54bcbc0^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="false" field="u_is_this_a_support_group_orga" goto="false" newquery="false" operator="=" or="false" value="false"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="false" value="9f5243ebdbf12200392a76721f9619af"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="a45e30ad1b107dd0f01ced3ce54bcb44"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="2a5eb4ad1b107dd0f01ced3ce54bcbe3"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="d46ef4ad1b107dd0f01ced3ce54bcb1b"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="52e0d6181b31b5d044639796bc4bcb23"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="176eb8ad1b107dd0f01ced3ce54bcb6b"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="558eb4ed1b107dd0f01ced3ce54bcb41"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="9f7e74ed1b107dd0f01ced3ce54bcbdb"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="469eb4ed1b107dd0f01ced3ce54bcbcd"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="152ef46d1b107dd0f01ced3ce54bcb32"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="d62e746d1b107dd0f01ced3ce54bcb56"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="188e70ed1b107dd0f01ced3ce54bcb9a"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="d72eb06d1b107dd0f01ced3ce54bcbb6"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="f83e386d1b107dd0f01ced3ce54bcbff"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="7d0e3c2d1b107dd0f01ced3ce54bcb30"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="7f3ef86d1b107dd0f01ced3ce54bcb8b"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="d31437bb6fdb3100d81548354b3ee4b7"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="8d4efc6d1b107dd0f01ced3ce54bcb3f"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="396e78ad1b107dd0f01ced3ce54bcb19"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="18aef4ed1b107dd0f01ced3ce54bcb8b"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="3c7eb8ad1b107dd0f01ced3ce54bcbf9"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="439ef4ed1b107dd0f01ced3ce54bcb89"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="da8eb4ed1b107dd0f01ced3ce54bcb42"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="cd0192581b31b5d044639796bc4bcbf0"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="5b8eb4ed1b107dd0f01ced3ce54bcb3b"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="566d80f01b47f9542a9bdbd4cc4bcbf1"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="0d9e78ed1b107dd0f01ced3ce54bcbc0"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></reference_qual_condition><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>YFVGH0</sys_created_by><sys_created_on>2022-10-24 15:12:36</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>bd7b2f20db7a9190a5a05425f39619ec</sys_id><sys_name>Owner Group</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_kb_knowledge_u_owner_group</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2025-12-15 21:46:50</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>396913799</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>59e81cf1479ffe14b64588ff336d4356</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40ba0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge</table>
+<target_name>Knowledge.Owner Group</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>3dd681dafc31bed0e46397f62359b29c</update_guid>
+<update_guid_history>3dd681dafc31bed0e46397f62359b29c:396913799,d82dc7681bbdfa10094c666e919956e7:-220810183,27cc8b241cbdfa109c0dd99896f0bc6f:-1821263878,4296cc98df7a8ad4c578c275d8d64e81:-220810183,5528ff841fb28ad4282589572997f702:292979020,06d7b7403eb28ad4d05f200528057f38:-1398656063,2f97730088b28ad4a82632a58f2da767:1553747554,2a22bbc06afe4ad4903957a41e98030a:-840880040,3361b34cd6be4ad437910580b334ebf6:-985935733,caabef609a7a919050654967e2ee04b9:-1416697813,e48b63603b7a9190dfcc0ce9ab336663:-1596043504</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_filter_e13c56ff47927a50b64588ff336d438b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="sys_email">subjectLIKEKB^sys_created_on&gt;=javascript:gs.dateGenerate('2026-01-14','00:00:00')^EQ<item endquery="false" field="subject" goto="false" newquery="false" operator="LIKE" or="false" value="KB"/><item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="&gt;=" or="false" value="javascript:gs.dateGenerate('2026-01-14','00:00:00')"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-14 16:22:08</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>e13c56ff47927a50b64588ff336d438b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Emails - KB - new system</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_filter_e13c56ff47927a50b64588ff336d438b</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-14 16:22:08</sys_updated_on><table>sys_email</table><title>Emails - KB - new system</title><user/></sys_filter></record_update>]]></payload>
+<payload_hash>1380590187</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>59e81cf1479ffe14b64588ff336d4379</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bbd5080180000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>sys_email</table>
+<target_name>Emails - KB - new system</target_name>
+<type>Filter</type>
+<update_domain>global</update_domain>
+<update_guid>b53c96ffdd927a50118fad6045e69686</update_guid>
+<update_guid_history>b53c96ffdd927a50118fad6045e69686:1380590187</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_kb_knowledge_u_sme</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_sme" table="kb_knowledge"><active>false</active><array>false</array><attributes>ref_ac_columns_search=true,ref_ac_display_value=false,ref_ac_columns=name;user_name;last_name;first_name;email,ref_auto_completer=AJAXTableCompleter,edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Reviewer</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_sme</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>kb_knowledge</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="sys_user">sys_user</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>david.i.stevenson</sys_created_by><sys_created_on>2014-04-25 13:22:21</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>2a5bcaa96f58a5005a807eeeae3ee467</sys_id><sys_name>Reviewer</sys_name><sys_package/><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_kb_knowledge_u_sme</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-06 20:13:12</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1412812355</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>5de81cf1479ffe14b64588ff336d4372</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40c80000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge</table>
+<target_name>Knowledge.Reviewer</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>a464c291709afa5cf94eeaa508ee09ad</update_guid>
+<update_guid_history>a464c291709afa5cf94eeaa508ee09ad:-1412812355,b701222d93549e508eeaecb4eec9f5fc:2057966510,f040a99cd9636b40d4a2de83d22f9061:-2125633951,f040a99cd9636b40d4a2de83d22f9061:-2125633951,c017599c78236b4014309883574eb016:1689659356,d5ce64945c2f2b4017e4b12d883e5847:-2125633951,-4785123:-4785123,-130168399:-130168399,286958137:286958137,1127547778:1127547778</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_adc8fcbe1b6ba2501f4662cae54bcb4f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>false</active><admin_overrides>false</admin_overrides><advanced>false</advanced><applies_to/><condition/><controlled_by_refs/><decision_type>allow</decision_type><description>Auto-generated by write-audit; Derived from read ACL: kb_knowledge.kb_category; Security Attribute: UserIsAuthenticatedAndHasRightsToRead; Roles: public (security attribute restrictions apply); Table field "u_owner_group":"table-retain-field" - customized roles</description><local_or_existing>Existing</local_or_existing><name>kb_knowledge.u_owner_group</name><operation display_value="query_range">e66cf897b7300210240b06dd1e11a9fd</operation><script/><security_attribute display_value="UserIsAuthenticatedAndHasRightsToRead">30b1557ea3dc6210103da1fdc31e6128</security_attribute><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>TGZNK0</sys_created_by><sys_created_on>2025-08-27 13:41:05</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>adc8fcbe1b6ba2501f4662cae54bcb4f</sys_id><sys_mod_count>4</sys_mod_count><sys_name>kb_knowledge.u_owner_group</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_security_acl_adc8fcbe1b6ba2501f4662cae54bcb4f</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2025-12-15 21:45:40</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1290719411</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>5de81cf1479ffe14b64588ff336d438d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40b80000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge.u_owner_group</table>
+<target_name>kb_knowledge.u_owner_group</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>24960d5a1431bed0b7628f6250da3417</update_guid>
+<update_guid_history>24960d5a1431bed0b7628f6250da3417:-1290719411,af03897e20aba250717a36fa02b5389e:1740373626,eca2017e22aba2501fbb1cd645d72b77:1665205059,6662893e1baba25004d3eb53f7b38d24:190160958,69c830fea66ba2503bdbf7687af1b4f0:1628828382</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_36ce83f8dbbdaf002c23300f7c9619a8</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Knowledge Feedback" name="Knowledge Feedback"&gt;d855a0a4db361300b9c2f9231f9619fc&lt;/category&gt;&lt;collection&gt;kb_feedback&lt;/collection&gt;&lt;condition table="kb_feedback"&gt;u_statusIN4,5,6,7,8^u_statusVALCHANGES^EQ&lt;item display_value="4,5,6,7,8" endquery="false" field="u_status" goto="false" newquery="false" operator="IN" or="false" value="4,5,6,7,8"/&gt;&lt;item display_value="-- None --" endquery="false" field="u_status" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;content_type&gt;text/html&lt;/content_type&gt;&lt;default_digest&gt;false&lt;/default_digest&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digest_type&gt;single&lt;/digest_type&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;approval.cancelled&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;div&gt;The knowledge article feedback&amp;nbsp;has been resolved.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Article Number: ${article.number}: ${article.short_description}
+&lt;div&gt;Feedback Number: ${u_number}&lt;/div&gt;
+&lt;div&gt;Date: ${sys_updated_on}&lt;/div&gt;
+&lt;div&gt;User: ${user}&lt;/div&gt;
+&lt;div&gt;Status: ${u_status}&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;Comments:&lt;/div&gt;
+&lt;div&gt;${comments}&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;Notes to user:&lt;/div&gt;
+&lt;div&gt;${u_notes_to_user}&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Knowledge Article  Notification: Closed&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields&gt;user,sys_created_by,article.ownership_group&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;Knowledge article feedback has been resolved.  ${u_number}&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;K2NXF0&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2018-11-13 17:41:05&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;36ce83f8dbbdaf002c23300f7c9619a8&lt;/sys_id&gt;&lt;sys_mod_count&gt;12&lt;/sys_mod_count&gt;&lt;sys_name&gt;Knowledge Article  Notification: Closed&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_36ce83f8dbbdaf002c23300f7c9619a8&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-01-08 17:02:14&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;template display_value="Unsubscribe and Preferences"&gt;7ed0481f3b0b2200c869c2c703efc487&lt;/template&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1436177445</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>81e81cf1479ffe14b64588ff336d434e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40dd0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_feedback</table>
+<target_name>Knowledge Article  Notification: Closed</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>6adb6fb523967a9c125b467f6d22cc89</update_guid>
+<update_guid_history>6adb6fb523967a9c125b467f6d22cc89:1436177445,7afbaee3fcdbe300bfa0d7663b5f8b8b:-1970296324,14493ba54aba278062c6ba182ed50f65:-112836459,1529f7a50aba27800b493219e9427571:1671208686,1295d175560aeb00e8c000a194cdee6a:-112836459,1c303815d0352340472818c8794f0235:1854657861,c38f24d11e3523406ea47098de508241:-595402751,16eeec9d25f123404d9eeb1fc5a118b5:1094104749,740d249dc3f12340e88905bc3483d014:-1362308358,d2f5081960312340e03d05cab418e975:-40987751,279abf4d92fdef000bc3717b8a0e7a8f:2092678848,89d67fbcb771ef00b883c59277e73778:500917074,be7213bc04bdaf00304b274bf31a5f50:-593451138</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_kb_knowledge_u_publishing_group</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_publishing_group" table="kb_knowledge"><active>false</active><array>false</array><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation>(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);</calculation><choice/><choice_field/><choice_table/><column_label>Publishing Group</column_label><comments/><create_roles/><default_value>e97a45fd6fb5210064cc8d412e3ee432</default_value><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_publishing_group</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>kb_knowledge</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="sys_user_group">sys_user_group</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual>nameINIT Service Desk KBase Admin,RSS Knowledge,NCT-Knowledge Admin,SIR Knowledge Admin^EQ</reference_qual><reference_qual_condition table="sys_user_group">nameINIT Service Desk KBase Admin,RSS Knowledge,NCT-Knowledge Admin,SIR Knowledge Admin^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="IN" or="false" value="IT Service Desk KBase Admin,RSS Knowledge,NCT-Knowledge Admin,SIR Knowledge Admin"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></reference_qual_condition><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>DBTHD0</sys_created_by><sys_created_on>2019-02-06 18:11:01</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9c48819cdbabe3803ab1309f7c961971</sys_id><sys_name>Publishing Group</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_kb_knowledge_u_publishing_group</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-06 20:12:06</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-46567237</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>91e81cf1479ffe14b64588ff336d4371</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40c40000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge</table>
+<target_name>Knowledge.Publishing Group</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>602482118a9afa5cc88a3dc0ad913d73</update_guid>
+<update_guid_history>602482118a9afa5cc88a3dc0ad913d73:-46567237,2f5841c94bfee15078407f54bce68c19:1165311799,d3be2d599b4f2d907e6f1465560520b6:-269338226,842568c3ea3bb010e8d5cb8f4de3f80d:-590394912,b79ce2ded47be3406b79c3ac05f8681f:-1699594268,b79ce2ded47be3406b79c3ac05f8681f:-1699594268,1afbee9ef37be3403723e38b11a0e806:1078090402,fdbb2a9e2d7be340e94dc24f000c30e2:1977518837,ed52a296553be3403531175ebdf27e5c:-1699594268,e832ae567d3be34097782128397f6344:-241462921,9179da5621f7e340417db7eed46f1e98:1270145419,b2784d9cb0abe3806db0cf6a8303eef4:1977518837</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_email_b56db9d187b5a5102d5cb9d8cebb35ea</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_email"&gt;&lt;sys_script_email action="INSERT_OR_UPDATE"&gt;&lt;name&gt;owner_group&lt;/name&gt;&lt;new_lines_to_html&gt;false&lt;/new_lines_to_html&gt;&lt;script&gt;&lt;![CDATA[(function runMailScript(current, template, email, email_action, event) {
+
+    var gr = new GlideRecord('kb_knowledge');
+    gr.addEncodedQuery('kb_knowledge_base=7b3f3def6f2ade00b7e659212e3ee450^valid_toRELATIVELT@dayofweek@ahead@45^valid_toRELATIVEGT@dayofweek@ahead@0^workflow_state=published');
+    gr.addQuery('ownership_group', event.parm1);
+    gr.query();
+    if (gr.next()) {
+        template.print(gr.ownership_group.name);
+    }
+
+})(current, template, email, email_action, event);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_email&lt;/sys_class_name&gt;&lt;sys_created_by&gt;YJPXC0&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-03-24 18:20:32&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;b56db9d187b5a5102d5cb9d8cebb35ea&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;owner_group&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_email_b56db9d187b5a5102d5cb9d8cebb35ea&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-24 19:36:33&lt;/sys_updated_on&gt;&lt;/sys_script_email&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;b56db9d187b5a5102d5cb9d8cebb35ea&lt;/id&gt;&lt;sys_created_by&gt;BN8JF0&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-24 19:35:23&lt;/sys_created_on&gt;&lt;sys_id&gt;a0669af347447210b64588ff336d4327&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-24 19:35:23&lt;/sys_updated_on&gt;&lt;table&gt;sys_script_email&lt;/table&gt;&lt;use_es_latest&gt;false&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1513844772</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>91e81cf1479ffe14b64588ff336d438c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40ab0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table/>
+<target_name>owner_group</target_name>
+<type>Email Script</type>
+<update_domain>global</update_domain>
+<update_guid>a9a61637384472107138cb415b9a5ac5</update_guid>
+<update_guid_history>a9a61637384472107138cb415b9a5ac5:1513844772,ec6656f3914472103c3cfb34feb369ec:-1067652411,0c4c0576c10225108c813b5757e96ea5:-818888738,c70175797442ad50f94b688afb87f11a:1143254506,cb66825dfeb5a510a5dd3c21c1c7e924:1175716446,db218a1963b5a51038538d1e2594c910:1481537187,c3a0ced5f9b5a5102515d6e82bd6080f:-199471419,7a8e71557fb5a5104d81d73b8e85deaa:-1023543672</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_2b798f8867503200d358bb2d07415a5f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_label/&gt;&lt;action_name/&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_run_at/&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;application/&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;kb_knowledge&lt;/collection&gt;&lt;condition&gt;!(new KBCommon().isExternalArticle(current))&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="kb_knowledge"&gt;workflow_stateVALCHANGES^EQ&lt;item display_value="-- None --" endquery="false" field="workflow_state" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Create Activity&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;read_access_action&gt;false&lt;/read_access_action&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	if(gs.getProperty('glide.knowman.enable_km_subscription', 'true') == 'true' &amp;&amp; current.workflow_state == 'published' &amp;&amp; previous.workflow_state != "published" &amp;&amp; previous.workflow_state != "pending_retirement") {
+		if(!current.article_id.nil()) {
+			var knowledge_gr = new GlideRecord('kb_knowledge');
+			knowledge_gr.addActiveQuery();
+			knowledge_gr.setWorkflow(false);
+			knowledge_gr.addQuery('sys_id','!=',current.sys_id);
+			knowledge_gr.addQuery('article_id',current.article_id);
+			knowledge_gr.orderByDesc('sys_created_on');
+			knowledge_gr.query();
+			gs.info('Create Activity called for KB: ' + current.sys_id); /*temporary log message - do no include in update set. */	
+			if(knowledge_gr.next()){
+				var subscription_gr = new GlideRecord('sn_actsub_subobject_stream');
+				subscription_gr.addQuery('sub_obj_id',knowledge_gr.sys_id);
+				subscription_gr.query();
+				while(subscription_gr.next()) {
+			        gs.info('In Create Activity called for KB: ' + current.sys_id + ' subscribeUser ' + subscription_gr.subscriber_id.document);  /*temporary log message - do no include in update set. */					
+					new ActivitySubscriptionContext().getSubscriptionService().subscribeUser('7d8f537453003200fa9bd7b08cc5872c',current.sys_id,subscription_gr.subscriber_id.document);
+				}
+			}
+		}
+		gs.info('In Create Activity called for KB: ' + current.sys_id + ' subscribeUser ' + current.kb_knowledge_base.owner);  /*temporary log message - do no include in update set. */	
+		new ActivitySubscriptionContext().getSubscriptionService().subscribeUser('7d8f537453003200fa9bd7b08cc5872c',current.sys_id,current.kb_knowledge_base.owner);
+		if(current.revised_by)
+			new ActivitySubscriptionContext().getActivityService().createActivity(current,"revised");
+		else
+			new ActivitySubscriptionContext().getActivityService().createActivity(current,"posted");
+		
+		gs.eventQueue("sn_actsub.create_activity",current,"skip","");
+	}
+
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-01-09 07:01:19&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;2b798f8867503200d358bb2d07415a5f&lt;/sys_id&gt;&lt;sys_mod_count&gt;54&lt;/sys_mod_count&gt;&lt;sys_name&gt;Create Activity&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Knowledge Management Advanced" source="com.snc.knowledge_advanced"&gt;81b0d40adb01f30042d27d0e0f96194d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_2b798f8867503200d358bb2d07415a5f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-01-21 20:56:51&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-1692423467</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>95e81cf1479ffe14b64588ff336d4385</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19be25886dc0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge</table>
+<target_name>Create Activity</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>f53e138e73ee761072f2ec065b5a758d</update_guid>
+<update_guid_history>f53e138e73ee761072f2ec065b5a758d:-1692423467,bd3e138eb9ee7610c81553c568910b88:978288614</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_09c9836f6f2ea1005a807eeeae3ee43e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Knowledge activity formatter fields</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>glide.ui.kb_knowledge_activity.fields</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>rachel.erickson</sys_created_by><sys_created_on>2014-08-21 19:24:10</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>09c9836f6f2ea1005a807eeeae3ee43e</sys_id><sys_mod_count>6</sys_mod_count><sys_name>glide.ui.kb_knowledge_activity.fields</sys_name><sys_package/><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_09c9836f6f2ea1005a807eeeae3ee43e</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-08 17:06:36</sys_updated_on><type>string</type><value>number,published,kb_category,topic,category,workflow_state,short_description,u_group,sys_updated_on,meta,u_application_website,active,article_type,direct,author,sys_class_name,cmdb_ci,sys_created_on,sys_created_by,description,display_attachments,sys_domain,flagged,image,u_notes,rating,u_restricted_sections,u_private_text,u_private_text_1,u_private_text_2,u_private_text_3,u_private_text_4,u_private_text_5,u_groups_body,u_groups_body_1,u_groups_body_2,u_groups_body_3,u_groups_body_4,u_groups_body_5,u_retirement_reason,roles,u_product_ci,u_answer_id,source,text,sys_updated_by,sys_mod_count,use_count,valid_to,sys_view_count,wiki,*EmailAutogenerated*,*EmailCorrespondence*,u_work_notes,*Attachments*,ownership_group</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=09c9836f6f2ea1005a807eeeae3ee43e"/></record_update>]]></payload>
+<payload_hash>-85520639</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>99e81cf1479ffe14b64588ff336d437e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40e00000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table/>
+<target_name>glide.ui.kb_knowledge_activity.fields</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>badcebf905967a9c5244a1a108be12e2</update_guid>
+<update_guid_history>badcebf905967a9c5244a1a108be12e2:-85520639,2c48745d93f97290e9f26393193fd886:-1765982312,0748ee963b7be340978b7a8476cce775:567925388,0748ee963b7be340978b7a8476cce775:567925388,1533504372:1533504372,-301973214:-301973214,-1766780564:-1766780564</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_kb_knowledge_u_answer_administrator</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_answer_administrator" table="kb_knowledge"><active>false</active><array>false</array><attributes>ref_ac_columns_search=true,ref_ac_display_value=false,ref_ac_columns=user_name;last_name;first_name;email,ref_auto_completer=AJAXTableCompleter,edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Publisher</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_answer_administrator</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>false</mandatory><max_length>32</max_length><name>kb_knowledge</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="sys_user">sys_user</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual>javascript:new FilterUserByGroup().getGroupMembersServerSide(current.u_publishing_group);</reference_qual><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>david.i.stevenson</sys_created_by><sys_created_on>2014-07-01 19:29:02</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>5bc168536f2521005a807eeeae3ee401</sys_id><sys_name>Publisher</sys_name><sys_package/><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_kb_knowledge_u_answer_administrator</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-06 20:10:51</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>advanced</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>1040078415</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>9de81cf1479ffe14b64588ff336d4354</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40c10000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge</table>
+<target_name>Knowledge.Publisher</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>02d3ca9d9d5afa5cf1d220c3c7a88708</update_guid>
+<update_guid_history>02d3ca9d9d5afa5cf1d220c3c7a88708:1040078415,8135e612e07be3407d7f91c5c0f4bd36:-1629003029,8135e612e07be3407d7f91c5c0f4bd36:-1629003029,21d466deb03be34038d5b77e0ff62eae:-451315353,9d22cd50ffabe38056fd7ac1acf011db:-1636602880,c9818d101fabe380e9b4bee7f93a69a3:1448724975,482894858:482894858,-1609460237:-1609460237,1892211979:1892211979,1983083451:1983083451,-1562725312:-1562725312</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_filter_b07a39321b2a72501c96db1ee54bcbeb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="sysevent_email_action">collection=kb_knowledge^active=true^NQevent_nameSTARTSWITHkb.article^ORevent_nameLIKEarticle^EQ<item endquery="false" field="collection" goto="false" newquery="false" operator="=" or="false" value="kb_knowledge"/><item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="false" field="event_name" goto="false" newquery="true" operator="STARTSWITH" or="false" value="kb.article"/><item endquery="false" field="event_name" goto="false" newquery="false" operator="LIKE" or="true" value="article"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-23 21:36:23</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>b07a39321b2a72501c96db1ee54bcbeb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Table is kb_knowledge and active, or event name contains article</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_filter_b07a39321b2a72501c96db1ee54bcbeb</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-23 21:36:23</sys_updated_on><table>sysevent_email_action</table><title>Table is kb_knowledge and active, or event name contains article</title><user/></sys_filter></record_update>]]></payload>
+<payload_hash>-961081415</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>9de81cf1479ffe14b64588ff336d4377</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19becc970ea0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>sysevent_email_action</table>
+<target_name>Table is kb_knowledge and active, or event name contains article</target_name>
+<type>Filter</type>
+<update_domain>global</update_domain>
+<update_guid>b47abd7e2c2a7250d65d69d28d676074</update_guid>
+<update_guid_history>b47abd7e2c2a7250d65d69d28d676074:-961081415</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_2b38e54b6f1c71008ca61e250d3ee4e2</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Knowledge Feedback" name="Knowledge Feedback"&gt;d855a0a4db361300b9c2f9231f9619fc&lt;/category&gt;&lt;collection&gt;kb_feedback&lt;/collection&gt;&lt;condition table="kb_feedback"&gt;u_statusCHANGESTO0^ORflaggedCHANGESTOtrue^EQ&lt;item display_value="Submitted" endquery="false" field="u_status" goto="false" newquery="false" operator="CHANGESTO" or="false" value="0"/&gt;&lt;item endquery="false" field="flagged" goto="false" newquery="false" operator="CHANGESTO" or="true" value="true"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;content_type&gt;multipart/mixed&lt;/content_type&gt;&lt;default_digest&gt;false&lt;/default_digest&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digest_type&gt;single&lt;/digest_type&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;approval.cancelled&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message&gt;&lt;![CDATA[New feedback has been submitted for the knowledge article below.
+
+Knowledge Article: ${article}:  ${article.short_description}
+Feedback Number: ${u_number}
+Created: ${sys_created_on}
+User: ${user}
+Status: ${u_status}
+
+Comments: 
+${comments}]]&gt;&lt;/message&gt;&lt;message_html&gt;&lt;![CDATA[&lt;div&gt;
+&lt;div&gt;New feedback has been submitted for the knowledge article below.&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Knowledge Article: ${article}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Feedback Number: ${u_number}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Created: ${sys_created_on}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;User: ${user}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Status: ${u_status}&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;Comments:&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;${comments}&lt;/div&gt;
+&lt;/div&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Feedback Submitted - User&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields&gt;user,article.author,article.ownership_group&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;New feedback has been submitted for the knowledge article: ${article}&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rachel.erickson&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2014-11-14 22:51:00&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;2b38e54b6f1c71008ca61e250d3ee4e2&lt;/sys_id&gt;&lt;sys_mod_count&gt;22&lt;/sys_mod_count&gt;&lt;sys_name&gt;Feedback Submitted - User&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_2b38e54b6f1c71008ca61e250d3ee4e2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-01-08 17:01:20&lt;/sys_updated_on&gt;&lt;sys_version&gt;1&lt;/sys_version&gt;&lt;template/&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>662715511</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>c5e818f1479ffe14b64588ff336d4342</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40da0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_feedback</table>
+<target_name>Feedback Submitted - User</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>2dab6f75d9967a9cc6e4b2314a8b68ce</update_guid>
+<update_guid_history>2dab6f75d9967a9cc6e4b2314a8b68ce:662715511,2b05ea6bfc9be300896a34d5dbc26da2:-1622669254,20d78499893123401d1c1756277bfd0b:-1146390980,e3220815dc31234009a668c006e8b107:-1007627855,2022c81511312340540220ed5801cd70:1523575036,d422c815eb3123402980dcfbe162456c:-1838037923,dfb0c091d1312340fc4f8703bdfedb51:-874532205,38b080d1503123400049f987310e9506:-965906038,74b080d1af31234018134187ab358903:-870524326,7a0cb7cda1fdef00320c492de394d131:-144536041,a71b338da5fdef0085ea7df5b3cf06c1:884993727,78083789a5fdef005ac3b58cb8665d84:-137152792,27d64801e2f1ef00e391eb8a5683c699:797496123,b5e084091fb1ef00638ffa72af377a85:-436067868,5a9c3b747fb1ef00fc4e18a5c3fc45f8:701817668,b62cff3456b1ef0098a9c2bac065f166:1776470384,f748b73045b1ef00ae069c2da2e29926:569364290,ddb7f33082b1ef00e23119a6327f9e49:-1140411867,fed4fbf89771ef00258e8ca899d49a6e:-1802989578,1ed13b78f771ef007f837fe37f2cfbdc:-842088300,e8cbc73827bdaf0078178897912e5a51:-1557595634,-1083370509:-1083370509</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sysevent_email_action_3552c97d6f9c71005a807eeeae3ee43e</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_email_action"&gt;&lt;sysevent_email_action action="INSERT_OR_UPDATE"&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;advanced_condition/&gt;&lt;affected_field_on_event/&gt;&lt;category display_value="Knowledge Feedback" name="Knowledge Feedback"&gt;d855a0a4db361300b9c2f9231f9619fc&lt;/category&gt;&lt;collection&gt;kb_feedback&lt;/collection&gt;&lt;condition table="kb_feedback"&gt;u_statusVALCHANGES^u_status=1^EQ&lt;item display_value="-- None --" endquery="false" field="u_status" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item display_value="Acknowledged" endquery="false" field="u_status" goto="false" newquery="false" operator="=" or="false" value="1"/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/condition&gt;&lt;content_type&gt;multipart/mixed&lt;/content_type&gt;&lt;default_digest&gt;false&lt;/default_digest&gt;&lt;default_interval/&gt;&lt;description/&gt;&lt;digest_from/&gt;&lt;digest_html/&gt;&lt;digest_reply_to/&gt;&lt;digest_separator_html&gt;&lt;![CDATA[&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/digest_separator_html&gt;&lt;digest_separator_text&gt;&lt;![CDATA[\n--------------------------------------------------------------------------------\n]]&gt;&lt;/digest_separator_text&gt;&lt;digest_subject/&gt;&lt;digest_template/&gt;&lt;digest_text/&gt;&lt;digest_type&gt;single&lt;/digest_type&gt;&lt;digestable&gt;false&lt;/digestable&gt;&lt;enable_dynamic_translation&gt;false&lt;/enable_dynamic_translation&gt;&lt;event_name&gt;approval.cancelled&lt;/event_name&gt;&lt;event_parm_1&gt;false&lt;/event_parm_1&gt;&lt;event_parm_2&gt;false&lt;/event_parm_2&gt;&lt;exclude_delegates&gt;false&lt;/exclude_delegates&gt;&lt;force_delivery&gt;false&lt;/force_delivery&gt;&lt;from/&gt;&lt;generation_type&gt;engine&lt;/generation_type&gt;&lt;importance/&gt;&lt;include_attachments&gt;false&lt;/include_attachments&gt;&lt;item&gt;event.parm1&lt;/item&gt;&lt;item_table/&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;message&gt;&lt;![CDATA[Knowledge article feedback has been updated.
+
+Knowledge Article: ${article}:  ${article.short_description}
+Feedback Number: ${u_number}
+Updated: ${sys_updated_on}
+User: ${user}
+Status: ${u_status}
+
+Comments: 
+${comments}
+
+Notes to user:
+${u_notes_to_user}]]&gt;&lt;/message&gt;&lt;message_html/&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Feedback Updated&lt;/name&gt;&lt;omit_watermark&gt;false&lt;/omit_watermark&gt;&lt;order&gt;100&lt;/order&gt;&lt;push_message_only&gt;false&lt;/push_message_only&gt;&lt;recipient_fields&gt;user,article.ownership_group&lt;/recipient_fields&gt;&lt;recipient_groups/&gt;&lt;recipient_users/&gt;&lt;reply_to/&gt;&lt;send_self&gt;true&lt;/send_self&gt;&lt;sms_alternate/&gt;&lt;style/&gt;&lt;subject&gt;Knowledge article feedback ${u_number} has been updated&lt;/subject&gt;&lt;subscribable&gt;false&lt;/subscribable&gt;&lt;sys_class_name&gt;sysevent_email_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;rachel.erickson&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2014-11-10 22:55:26&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;3552c97d6f9c71005a807eeeae3ee43e&lt;/sys_id&gt;&lt;sys_mod_count&gt;14&lt;/sys_mod_count&gt;&lt;sys_name&gt;Feedback Updated&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package/&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_action_3552c97d6f9c71005a807eeeae3ee43e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-01-08 16:59:55&lt;/sys_updated_on&gt;&lt;sys_version/&gt;&lt;template/&gt;&lt;type&gt;email&lt;/type&gt;&lt;weight&gt;0&lt;/weight&gt;&lt;/sysevent_email_action&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-979192277</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>c5e81cf1479ffe14b64588ff336d434c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40d70000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_feedback</table>
+<target_name>Feedback Updated</target_name>
+<type>Notification</type>
+<update_domain>global</update_domain>
+<update_guid>6c5ba3f140967a9ce56d2c4a43e4c4b7</update_guid>
+<update_guid_history>6c5ba3f140967a9ce56d2c4a43e4c4b7:-979192277,4dd591752c0aeb00ef152abf9d43d501:1053291440,931f017964c6eb00c4a033ae038a07ae:1162355017,7a070859e831234071f746c68f2d4fde:306173055,f1adfb01343123404f69943e40213847:1162355017,b8b4400151f1ef00f21148b94349d438:-390722015,2a52048d3cb1ef00f6569f0f7fc0b38d:1838083211,cd11440ddbb1ef00e3636b42f873f2c5:-810030776,2d8ebb7422b1ef00bcf1b67d0ecb9376:905443972,ef37fbfc8971ef00df7545b7e3a0694b:-342648156,3780ef7c21fdaf005a58179dde5e0ef1:-896174715,2d4c5bf8d5fdaf00e6a67b362f52cba0:478677907,-1016505319:-1016505319,1084635763:1084635763</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_kb_knowledge_ownership_group</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="ownership_group" table="kb_knowledge"><active>true</active><array>false</array><attributes>encode_utf8=false</attributes><audit>false</audit><calculation/><choice/><choice_field/><choice_table/><column_label>Ownership Group</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>ownership_group</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="Reference">reference</internal_type><mandatory>true</mandatory><max_length>32</max_length><name>kb_knowledge</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference display_value="" name="sys_user_group">sys_user_group</reference><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual>active=true^u_is_this_a_support_group_orga=false^typeLIKE9f5243ebdbf12200392a76721f9619af^ORtypeLIKEa45e30ad1b107dd0f01ced3ce54bcb44^ORtypeLIKE2a5eb4ad1b107dd0f01ced3ce54bcbe3^ORtypeLIKEd46ef4ad1b107dd0f01ced3ce54bcb1b^ORtypeLIKE52e0d6181b31b5d044639796bc4bcb23^ORtypeLIKE176eb8ad1b107dd0f01ced3ce54bcb6b^ORtypeLIKE558eb4ed1b107dd0f01ced3ce54bcb41^ORtypeLIKE9f7e74ed1b107dd0f01ced3ce54bcbdb^ORtypeLIKE469eb4ed1b107dd0f01ced3ce54bcbcd^ORtypeLIKE152ef46d1b107dd0f01ced3ce54bcb32^ORtypeLIKEd62e746d1b107dd0f01ced3ce54bcb56^ORtypeLIKE188e70ed1b107dd0f01ced3ce54bcb9a^ORtypeLIKEd72eb06d1b107dd0f01ced3ce54bcbb6^ORtypeLIKEf83e386d1b107dd0f01ced3ce54bcbff^ORtypeLIKE7d0e3c2d1b107dd0f01ced3ce54bcb30^ORtypeLIKE7f3ef86d1b107dd0f01ced3ce54bcb8b^ORtypeLIKEd31437bb6fdb3100d81548354b3ee4b7^ORtypeLIKE8d4efc6d1b107dd0f01ced3ce54bcb3f^ORtypeLIKE396e78ad1b107dd0f01ced3ce54bcb19^ORtypeLIKE18aef4ed1b107dd0f01ced3ce54bcb8b^ORtypeLIKE3c7eb8ad1b107dd0f01ced3ce54bcbf9^ORtypeLIKE439ef4ed1b107dd0f01ced3ce54bcb89^ORtypeLIKEda8eb4ed1b107dd0f01ced3ce54bcb42^ORtypeLIKEcd0192581b31b5d044639796bc4bcbf0^ORtypeLIKE5b8eb4ed1b107dd0f01ced3ce54bcb3b^ORtypeLIKE566d80f01b47f9542a9bdbd4cc4bcbf1^ORtypeLIKE0d9e78ed1b107dd0f01ced3ce54bcbc0^EQ</reference_qual><reference_qual_condition table="sys_user_group">active=true^u_is_this_a_support_group_orga=false^typeLIKE9f5243ebdbf12200392a76721f9619af^ORtypeLIKEa45e30ad1b107dd0f01ced3ce54bcb44^ORtypeLIKE2a5eb4ad1b107dd0f01ced3ce54bcbe3^ORtypeLIKEd46ef4ad1b107dd0f01ced3ce54bcb1b^ORtypeLIKE52e0d6181b31b5d044639796bc4bcb23^ORtypeLIKE176eb8ad1b107dd0f01ced3ce54bcb6b^ORtypeLIKE558eb4ed1b107dd0f01ced3ce54bcb41^ORtypeLIKE9f7e74ed1b107dd0f01ced3ce54bcbdb^ORtypeLIKE469eb4ed1b107dd0f01ced3ce54bcbcd^ORtypeLIKE152ef46d1b107dd0f01ced3ce54bcb32^ORtypeLIKEd62e746d1b107dd0f01ced3ce54bcb56^ORtypeLIKE188e70ed1b107dd0f01ced3ce54bcb9a^ORtypeLIKEd72eb06d1b107dd0f01ced3ce54bcbb6^ORtypeLIKEf83e386d1b107dd0f01ced3ce54bcbff^ORtypeLIKE7d0e3c2d1b107dd0f01ced3ce54bcb30^ORtypeLIKE7f3ef86d1b107dd0f01ced3ce54bcb8b^ORtypeLIKEd31437bb6fdb3100d81548354b3ee4b7^ORtypeLIKE8d4efc6d1b107dd0f01ced3ce54bcb3f^ORtypeLIKE396e78ad1b107dd0f01ced3ce54bcb19^ORtypeLIKE18aef4ed1b107dd0f01ced3ce54bcb8b^ORtypeLIKE3c7eb8ad1b107dd0f01ced3ce54bcbf9^ORtypeLIKE439ef4ed1b107dd0f01ced3ce54bcb89^ORtypeLIKEda8eb4ed1b107dd0f01ced3ce54bcb42^ORtypeLIKEcd0192581b31b5d044639796bc4bcbf0^ORtypeLIKE5b8eb4ed1b107dd0f01ced3ce54bcb3b^ORtypeLIKE566d80f01b47f9542a9bdbd4cc4bcbf1^ORtypeLIKE0d9e78ed1b107dd0f01ced3ce54bcbc0^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="false" field="u_is_this_a_support_group_orga" goto="false" newquery="false" operator="=" or="false" value="false"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="false" value="9f5243ebdbf12200392a76721f9619af"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="a45e30ad1b107dd0f01ced3ce54bcb44"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="2a5eb4ad1b107dd0f01ced3ce54bcbe3"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="d46ef4ad1b107dd0f01ced3ce54bcb1b"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="52e0d6181b31b5d044639796bc4bcb23"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="176eb8ad1b107dd0f01ced3ce54bcb6b"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="558eb4ed1b107dd0f01ced3ce54bcb41"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="9f7e74ed1b107dd0f01ced3ce54bcbdb"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="469eb4ed1b107dd0f01ced3ce54bcbcd"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="152ef46d1b107dd0f01ced3ce54bcb32"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="d62e746d1b107dd0f01ced3ce54bcb56"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="188e70ed1b107dd0f01ced3ce54bcb9a"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="d72eb06d1b107dd0f01ced3ce54bcbb6"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="f83e386d1b107dd0f01ced3ce54bcbff"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="7d0e3c2d1b107dd0f01ced3ce54bcb30"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="7f3ef86d1b107dd0f01ced3ce54bcb8b"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="d31437bb6fdb3100d81548354b3ee4b7"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="8d4efc6d1b107dd0f01ced3ce54bcb3f"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="396e78ad1b107dd0f01ced3ce54bcb19"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="18aef4ed1b107dd0f01ced3ce54bcb8b"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="3c7eb8ad1b107dd0f01ced3ce54bcbf9"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="439ef4ed1b107dd0f01ced3ce54bcb89"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="da8eb4ed1b107dd0f01ced3ce54bcb42"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="cd0192581b31b5d044639796bc4bcbf0"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="5b8eb4ed1b107dd0f01ced3ce54bcb3b"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="566d80f01b47f9542a9bdbd4cc4bcbf1"/><item endquery="false" field="type" goto="false" newquery="false" operator="LIKE" or="true" value="0d9e78ed1b107dd0f01ced3ce54bcbc0"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></reference_qual_condition><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2020-03-07 18:46:50</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>9eacd7d31b5f0010a2cb0fe8ec4bcb76</sys_id><sys_name>Ownership Group</sys_name><sys_package display_value="Knowledge Management Advanced" source="com.snc.knowledge_advanced">81b0d40adb01f30042d27d0e0f96194d</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_kb_knowledge_ownership_group</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2025-12-15 21:34:32</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-93038275</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>d1e81cf1479ffe14b64588ff336d4353</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40b50000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>kb_knowledge</table>
+<target_name>Knowledge.Ownership Group</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>1504819e6bfd7ed04cee6f4b7a392d8f</update_guid>
+<update_guid_history>1504819e6bfd7ed04cee6f4b7a392d8f:-93038275,ef924516aafd7ed07c76492c080fa6f9:-2109616792,6b424952e8fd7ed060ee189ffd5565c7:-701195007,c8228912fdfd7ed0ace95eaa5e69a6f2:-1848465529,56f1cdded4bd7ed01fde2ba866af208c:-493443306,f3d1c5de00bd7ed0aca3eca6e73c2308:-792292636,3ac1cd9e94bd7ed03c412c9d7da46a23:-326858867,a2a1819e35bd7ed0600e5cdb01066590:-1060175116,f191895e84bd7ed08352e6621b3fc327:1212848310,f081c15ee9bd7ed013c65af18bbdc2fc:567568373,93614d1e01bd7ed0e83ab0ffd01ed822:-325291448,0351c51e09bd7ed0e9c5520117411e3d:1462799058,2321c5da38bd7ed027ab672815fc03ee:-1517818683,f5500dd6eebd7ed074210c48fc87ee98:-1151903852,e65d3c5a497d7ed0665db57e18974912:985157696,3420605ec1357ed0f58f36fdcbd36321:-1196427942,a820a81ee6357ed073ff1c3fcb36ed11:1493674710</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_filter_3ddb1a3f47927a50b64588ff336d4324</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="sys_email">subjectLIKEKB^sys_created_on&gt;=javascript:gs.dateGenerate('2026-01-14','00:00:00')^EQ^GROUPBYsubject<item endquery="false" field="subject" goto="false" newquery="false" operator="LIKE" or="false" value="KB"/><item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="&gt;=" or="false" value="javascript:gs.dateGenerate('2026-01-14','00:00:00')"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/><item endquery="false" field="" goto="false" newquery="false" operator="GROUPBY" or="false" value="subject"/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-14 16:20:29</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>3ddb1a3f47927a50b64588ff336d4324</sys_id><sys_mod_count>0</sys_mod_count><sys_name>KB Emails - new system</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_filter_3ddb1a3f47927a50b64588ff336d4324</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-14 16:20:29</sys_updated_on><table>sys_email</table><title>KB Emails - new system</title><user/></sys_filter></record_update>]]></payload>
+<payload_hash>1302536856</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>d1e81cf1479ffe14b64588ff336d4376</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bbd4f005c0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>sys_email</table>
+<target_name>KB Emails - new system</target_name>
+<type>Filter</type>
+<update_domain>global</update_domain>
+<update_guid>f1db1a3fa3927a50b04b6cd3ed883f27</update_guid>
+<update_guid_history>f1db1a3fa3927a50b04b6cd3ed883f27:1302536856</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_email_5a79a6911b9e2d10625865b3604bcb2b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_email"&gt;&lt;sys_script_email action="INSERT_OR_UPDATE"&gt;&lt;name&gt;owner_group_expired&lt;/name&gt;&lt;new_lines_to_html&gt;false&lt;/new_lines_to_html&gt;&lt;script&gt;&lt;![CDATA[(function runMailScript(current, template, email, email_action, event) {
+
+    var gr = new GlideRecord('kb_knowledge');
+    gr.addEncodedQuery('workflow_state=published^kb_knowledge_base=7b3f3def6f2ade00b7e659212e3ee450^valid_to&lt;javascript:gs.beginningOfToday()');
+    gr.addQuery('ownership_group', event.parm1);
+    gr.query();
+    if (gr.next()) {
+        template.print(gr.ownership_group.name);
+    }
+
+})(current, template, email, email_action, event);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_email&lt;/sys_class_name&gt;&lt;sys_created_by&gt;YJPXC0&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-04-18 17:59:29&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_id&gt;5a79a6911b9e2d10625865b3604bcb2b&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;owner_group_expired&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_email_5a79a6911b9e2d10625865b3604bcb2b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-24 19:37:00&lt;/sys_updated_on&gt;&lt;/sys_script_email&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;5a79a6911b9e2d10625865b3604bcb2b&lt;/id&gt;&lt;sys_created_by&gt;BN8JF0&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-09-24 19:36:19&lt;/sys_created_on&gt;&lt;sys_id&gt;8e96daf347447210b64588ff336d430d&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-09-24 19:36:19&lt;/sys_updated_on&gt;&lt;table&gt;sys_script_email&lt;/table&gt;&lt;use_es_latest&gt;false&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>-889058385</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>d5e81cf1479ffe14b64588ff336d438a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40b00000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table/>
+<target_name>owner_group_expired</target_name>
+<type>Email Script</type>
+<update_domain>global</update_domain>
+<update_guid>04c6d637d6447210ae5eecdd31d2d7f9</update_guid>
+<update_guid_history>04c6d637d6447210ae5eecdd31d2d7f9:-889058385,029616376c4472109691e3ebfd1f0516:1970816483,9a79a691e89e2d10fa3a7c23f55a392c:1739031929</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_fe08cef16f0831005a807eeeae3ee4ef</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Knowledge Feedback activity formatter fields  -- AK: removed u_answer_administrator.  Added ownership_group.  Not certain that kb_feedback has such fields.  My change was to kb_knowledge.</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>glide.ui.kb_feedback_activity.fields</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>rachel.erickson</sys_created_by><sys_created_on>2014-10-29 17:41:50</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>fe08cef16f0831005a807eeeae3ee4ef</sys_id><sys_mod_count>2</sys_mod_count><sys_name>glide.ui.kb_feedback_activity.fields</sys_name><sys_package/><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_fe08cef16f0831005a807eeeae3ee4ef</sys_update_name><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-08 17:09:32</sys_updated_on><type>string</type><value>u_number,article,comments,rating,useful,sys_created_on, ownership_group, work_notes,*Email*,u_status,user,*Attachments*</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=fe08cef16f0831005a807eeeae3ee4ef"/></record_update>]]></payload>
+<payload_hash>-926313126</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>d9e81cf1479ffe14b64588ff336d4383</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40e20000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table/>
+<target_name>glide.ui.kb_feedback_activity.fields</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_guid>a18dabfdb2967a9cfd663a2c1efba684</update_guid>
+<update_guid_history>a18dabfdb2967a9cfd663a2c1efba684:-926313126,387201108:387201108</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_filter_e9ab9ebb47927a50b64588ff336d439d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_filter"><sys_filter action="INSERT_OR_UPDATE"><filter table="sys_email">subjectLIKEKB^sys_created_on&gt;=javascript:gs.dateGenerate('2026-01-14','00:00:00')^EQ^GROUPBYsubject<item endquery="false" field="subject" goto="false" newquery="false" operator="LIKE" or="false" value="KB"/><item endquery="false" field="sys_created_on" goto="false" newquery="false" operator="&gt;=" or="false" value="javascript:gs.dateGenerate('2026-01-14','00:00:00')"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/><item endquery="false" field="" goto="false" newquery="false" operator="GROUPBY" or="false" value="subject"/></filter><group/><last_used/><mobile>false</mobile><roles/><sys_class_name>sys_filter</sys_class_name><sys_created_by>BN8JF0</sys_created_by><sys_created_on>2026-01-14 16:19:40</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_id>e9ab9ebb47927a50b64588ff336d439d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package/><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name/><sys_updated_by>BN8JF0</sys_updated_by><sys_updated_on>2026-01-14 16:19:40</sys_updated_on><table>sys_email</table><title>KB Emails - new system</title><user display_value="Alexander Kulczycki">2f6db5516f7d210064cc8d412e3ee49f</user></sys_filter></record_update>]]></payload>
+<payload_hash>-1654705234</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group">85e818f1479ffe14b64588ff336d4340</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>dde81cf1479ffe14b64588ff336d437c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bbd4e3db00000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>sys_email</table>
+<target_name>KB Emails - new system</target_name>
+<type>Filter</type>
+<update_domain>global</update_domain>
+<update_guid>e1ab9ebb3c927a50a73664cc46854ba2</update_guid>
+<update_guid_history>e1ab9ebb3c927a50a73664cc46854ba2:-1654705234</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="GRC: Policy and Compliance Management">4a3281d053030200d23c9c25911c086f</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_445458ef1b9252d0972aedfde54bcbe3</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_label/&gt;&lt;action_name/&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_run_at&gt;server&lt;/action_run_at&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;application/&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;sn_compliance_policy&lt;/collection&gt;&lt;condition&gt;current.state.changesTo('published')&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;PLMS Publish to KB Extra Objects&lt;/name&gt;&lt;onclick/&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;read_access_action&gt;false&lt;/read_access_action&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/ ) {
+
+    publishKB(current);
+
+    function publishKB(current) {
+
+        var ownership_group = '',
+            business_service = '';
+        var grGroups = new GlideRecord('sys_user_group');
+        if (grGroups.get('name', 'SDS PLMS')) {
+            ownership_group = grGroups.getUniqueValue();
+        }
+        var grServices = new GlideRecord('service_offering');
+        if (grServices.get('name', 'PLMS')) {
+            business_service = grServices.getUniqueValue();
+        }
+        var description = current.getValue('description');
+        var document_owner_list = current.getValue('u_document_owner');
+        var document_owner_array = document_owner_list.split(',');
+        var document_owner = document_owner_array[0];
+        var meta = current.getDisplayValue('type');
+
+        var kb = current.getValue('kb_article');
+        var grKnowledge = new GlideRecord('kb_knowledge');
+        if (grKnowledge.get(kb)) {
+            grKnowledge.setValue('ownership_group', ownership_group); // Ownership Group =  'SDS PLMS
+            grKnowledge.setValue('u_cmdb_ci_service', business_service); // Business Service = 'PLMS'
+            grKnowledge.setValue('description', description); // Description = Documents Short Description
+            grKnowledge.setValue('text', description); // Text = Documents Short Description
+            grKnowledge.setValue('u_restricted_article', 'no'); // Restricted Article = 'No'
+            grKnowledge.setValue('meta', meta); // Meta = Document Type
+            grKnowledge.update();
+        }
+    }
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;VY21F0&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-12-11 19:29:23&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;false&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_id&gt;445458ef1b9252d0972aedfde54bcbe3&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;PLMS Publish to KB Extra Objects&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="GRC: Policy and Compliance Management" source="sn_compliance"&gt;4a3281d053030200d23c9c25911c086f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="GRC: Policy and Compliance Management"&gt;4a3281d053030200d23c9c25911c086f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_445458ef1b9252d0972aedfde54bcbe3&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;BN8JF0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-01-07 21:23:14&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_es_latest_script action="INSERT_OR_UPDATE"&gt;&lt;id&gt;445458ef1b9252d0972aedfde54bcbe3&lt;/id&gt;&lt;sys_created_by&gt;VY21F0&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-12-11 19:29:22&lt;/sys_created_on&gt;&lt;sys_id&gt;4eb4dcef1b9252d0972aedfde54bcbf6&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;VY21F0&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-12-11 19:29:22&lt;/sys_updated_on&gt;&lt;table&gt;sys_script&lt;/table&gt;&lt;use_es_latest&gt;false&lt;/use_es_latest&gt;&lt;/sys_es_latest_script&gt;&lt;/record_update&gt;</payload>
+<payload_hash>1543024840</payload_hash>
+<remote_update_set display_value="KB Knowledge revert to OOB ownership_group for GRC app">d5e81cf1479ffe14b64588ff336d4391</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>BN8JF0</sys_created_by>
+<sys_created_on>2026-02-26 18:43:20</sys_created_on>
+<sys_id>5de81cf1479ffe14b64588ff336d4391</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>19bb93a40ce0000001</sys_recorded_at>
+<sys_updated_by>BN8JF0</sys_updated_by>
+<sys_updated_on>2026-02-26 18:43:20</sys_updated_on>
+<table>sn_compliance_policy</table>
+<target_name>PLMS Publish to KB Extra Objects</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_guid>000e97697696f29c7b8eabd9cc8d163a</update_guid>
+<update_guid_history>000e97697696f29c7b8eabd9cc8d163a:1543024840,e7dddf296696f29c9b848929dfd861d9:575244133,08445e76f3353614e7df925fabe31bb9:-1774203185,597afcda443d7ed06c52269a44a4beb5:-988413403,04823104586296d0fa7ed7d6fa20666b:-546213932,86b458efc29252d02a947cf6c23c960b:1494874601</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
