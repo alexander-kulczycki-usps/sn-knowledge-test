@@ -1,0 +1,9 @@
+Background / Problem Definition
+The custom field "Owner Group" (u_owner_group) on the Knowledge article is ineffective in determining the group responsible for managing the article; it solely indicates ownership of the knowledge or process. As a result, there is a need to deactivate this field as it does not accurately reflect the group with authority to manage the article content.
+Desired Business Outcomes
+To achieve our desired business outcomes, we aim to reinstate the OOB field "Ownership Group" on the record to facilitate knowledge article management at the ownership group level. We intend to redirect any custom approval workflows to be routed to the ownership group instead of the IT Service Desk K Base group. Additionally, a comprehensive review of knowledge roles and Access Control Lists (ACLs) will be conducted to ensure alignment with our business objectives.
+Proposed / Expected Impacted Systems
+Financial Benefits to USPS
+The current procedure poses a significant challenge, making article management a cumbersome task. With USPS transitioning from Service Desk to ServiceNow for Knowledge Management under ownership groups, there is a pressing need to streamline the process. Reverting to Out of the Box (OOB) functionality will simplify article management, enhance visibility on user permissions, and reduce the time spent on explaining outdated processes, thereby alleviating user confusion regarding article management capabilities.
+Desired Implementation FY/QTR
+Software/Hardware/Cloud purchase type
